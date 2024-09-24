@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: CLP_6764.jpg
+  image: cabe_color.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 
