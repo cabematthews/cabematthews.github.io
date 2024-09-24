@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: cabe_color.jpg
+  image: assets/img/cabe_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
