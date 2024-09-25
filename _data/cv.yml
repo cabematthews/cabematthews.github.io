@@ -73,31 +73,53 @@
     - title: Clinical Pastoral Education
       items:
         - One Half Unit
-        - Department of Spiritual Care and Education, Houston Methodist Hospital
+        - Department of Spiritual Care and Education, Houston Methodist Hospital, 
         - Houston, TX
       year: 2020
 
-    - year: 1921
+    - title: Assistant Praxis Editor
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - The Other Journal
+        - Seattle, WA
+      year: 2013-2017
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Board of Editors
+      items: 
+        - Perkins Student Journal 
+        - Perkins School of Theology, Southern Methodist University
+        - Dallas, TX
+      year: 2014-2016
 
-- title: Other Interests
+    - title: Board of Directors
+      items:
+        - BIGHOUSE – youth missions organization
+        - Deer Park, TX
+      year: 2011-2017
+
+
+- title: Other Qualifications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Ordained Elder, 2022-present; Trinity Conference, Global Methodist Church
+    - Ordained Elder, 2021-2022; Provisional Elder, 2019-2021; Licensed Local Pastor, 2014-2019; Texas Annual Conference, The United Methodist Church
+    - Proficient mobile and desktop computing skills including some programming (Python, et al.), database, web design, word processing, spreadsheet, etc. 
+    - New Testament Greek
+    - Basic knowledge of Biblical Hebrew, Latin, German, and Spanish
+
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
