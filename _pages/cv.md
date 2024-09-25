@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: curriculum vitae
 nav: true
 nav_order: 2
-cv_pdf: Cabe Matthews.pdf
+cv_pdf:
 description:
 toc:
   sidebar: left
