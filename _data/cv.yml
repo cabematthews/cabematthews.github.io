@@ -14,22 +14,24 @@
     - title: non-degree studies required for ordination
       institution: Asbury Theological Seminary, Wilmore, Kentucky
       year: 2019
+
     - title: Master of Theology
       institution: Perkins School of Theology, Southern Methodist University, Dallas, Texas
       year: 2016
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
+    #      description:
+    #        - Description 1.
+    #        - Description 2.
+    #        - title: Description 3.
+    #          contents:
+    #            - Sub-description 1.
+    #            - Sub-description 2.
+
     - title: Master of Divinity
       institution: The Seattle School of Theology and Psychology, Seattle, Washington
       year: 2009
-#      description:
-#        - Description 1.
-#        - Description 2.
+    #      description:
+    #        - Description 1.
+    #        - Description 2.
     - title: Bachelor of Science in Physics
       institution: The University of Texas at Austin, Austin, Texas
       year: 2005
@@ -56,7 +58,7 @@
     - title: Director of Youth Ministries
       institution: Aldersgate United Methodist Church, Santa Fe, Texas
       year: 2010-2014
-    
+
     - title: Pastoral Intern
       institution: Olympic View Community Church of the Brethren, Seattle, Washington
       year: 2008-2009
@@ -69,11 +71,11 @@
         - YES Montgomery – non-profit supporting at-risk youth
         - Montgomery, TX
       year: 2019-present
-    
+
     - title: Clinical Pastoral Education
       items:
         - One Half Unit
-        - Department of Spiritual Care and Education, Houston Methodist Hospital, 
+        - Department of Spiritual Care and Education, Houston Methodist Hospital,
         - Houston, TX
       year: 2020
 
@@ -84,8 +86,8 @@
       year: 2013-2017
 
     - title: Board of Editors
-      items: 
-        - Perkins Student Journal 
+      items:
+        - Perkins Student Journal
         - Perkins School of Theology, Southern Methodist University
         - Dallas, TX
       year: 2014-2016
@@ -96,17 +98,14 @@
         - Deer Park, TX
       year: 2011-2017
 
-
 - title: Other Qualifications
   type: list
   contents:
     - Ordained Elder, 2022-present; Trinity Conference, Global Methodist Church
     - Ordained Elder, 2021-2022; Provisional Elder, 2019-2021; Licensed Local Pastor, 2014-2019; Texas Annual Conference, The United Methodist Church
-    - Proficient mobile and desktop computing skills including some programming (Python, et al.), database, web design, word processing, spreadsheet, etc. 
+    - Proficient mobile and desktop computing skills including some programming (Python, et al.), database, web design, word processing, spreadsheet, etc.
     - New Testament Greek
     - Basic knowledge of Biblical Hebrew, Latin, German, and Spanish
-
-
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
