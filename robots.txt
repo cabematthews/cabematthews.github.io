@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cabematthews.github.io/sitemap.xml
+Sitemap: https://www.cabematthews.com/sitemap.xml
