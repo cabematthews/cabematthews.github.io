@@ -17,23 +17,22 @@ layout: default
     <div class="mb-3">
       <label for="name">Name</label>
       <br>
-      <input type="text" id="name" name="name" placeholder="Name" required size="100%">
+      <input type="text" id="name" name="name" placeholder="Name" required>
     </div>
-    <p>
-      <label for="email">Email</label><br>
-      <input type="email" id="email" name="email" placeholder="Email" required size="100%">
-    </p>
-    <p>
+    <div class="mb-3">
+      <label class="form-label" for="email">Email</label><br>
+      <input type="email" id="email" name="email" placeholder="" required>
+    </div>
+    <div class="mb-3">
       <label for="message">Message</label><br>
       <textarea
         id="message"
         name="message"
         placeholder="Message"
         required
-        cols="100%"
         rows="10"
       ></textarea>
-    </p>
+    </div>
 <input
     type="hidden"
     name="_redirect"
