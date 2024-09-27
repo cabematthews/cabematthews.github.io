@@ -3,6 +3,6 @@ layout: contact
 permalink: /contact/
 title: "contact"
 description:
-nav: false
+nav: true
 nav_order: 3
 ---
