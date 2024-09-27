@@ -13,15 +13,7 @@ layout: default
 </div>
 
 <div class="post">
-  <form action="https://submit-form.com/Ky8dRN3Dz">
-    <script>
-      function onClick(e) {
-        e.preventDefault();
-        grecaptcha.enterprise.ready(async () => {
-          const token = await grecaptcha.enterprise.execute('6LeTGk8qAAAAAOtFCILYA5PaEs8O4UyKSpEKfXez', { action: 'LOGIN' });
-        });
-      }
-    </script>
+  <form action="https://submit-form.com/Ky8dRN3Dz" id="contact-form" name="contact-form">
     <p>
       <label for="name">Name</label>
       <br>
@@ -42,8 +34,21 @@ layout: default
         rows="10"
       ></textarea>
     </p>
-    <button type="submit">Send</button>
+    <button
+      class="g-recaptcha"
+      data-sitekey="6LeTGk8qAAAAAOtFCILYA5PaEs8O4UyKSpEKfXez"
+      data-callback="onSubmit"
+      data-action="submit"
+      type="submit"
+    >
+      Send
+    </button>
   </form>
 </div>
-<script src="/js/jquery.min.js"></script>
-{% include better-forms.html %}
+
+<!-- CAPTCHA - Use a callback function to handle the response token. -->
+<script>
+  function onSubmit(token) {
+    document.getElementById('contact-form').submit();
+  }
+</script>
