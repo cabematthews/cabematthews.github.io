@@ -48,3 +48,23 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+/*/ Redefine Bootstrap variables
+$primary: #cc5500 !important;
+
+$theme-colors: (
+  "primary": $primary,
+);
+
+$primary: $orange-color; // set the $primary variable
+
+// merge with existing $theme-colors map
+$theme-colors: map-merge(
+  $theme-colors,
+  (
+    "primary": $primary,
+  )
+);
+
+// set changes
+// @import "bootstrap";*/
