@@ -13,23 +13,23 @@ layout: default
 </div>
 
 <div class="post">
-  <form action="https://submit-form.com/Ky8dRN3Dz" method="POST" id="contact-form" name="contact-form">
+  <form action="https://submit-form.com/Ky8dRN3Dz" id="contact-form" name="contact-form">
     <div class="mb-1">
-      <label for="name">Name</label>
-      <input class="form-control" type="text" id="name" name="name" required>
+      <label class="form-label" for="name">Name</label>
+      <input class="form-control" type="text" id="name" name="name" required="">
     </div>
     <div class="mb-1">
       <label class="form-label" for="email">Email</label>
-      <input type="email" id="email" class="form-control" name="email" placeholder="" required>
+      <input class="form-control" type="email" id="email" name="email" required="">
     </div>
     <div class="mb-1">
-      <label for="message">Message</label><br>
+      <label class="form-label" for="message">Message</label><br>
       <textarea
+        class="form-control"
         id="message"
         name="message"
-        required
+        required=""
         rows="10"
-        class="form-control"
       ></textarea>
     </div>
     <input
@@ -40,15 +40,21 @@ layout: default
     <input type="hidden" name="_append" value="true">
     <button
       class="g-recaptcha btn btn-primary"
+      type="submit"
       data-sitekey="6LeTGk8qAAAAAOtFCILYA5PaEs8O4UyKSpEKfXez"
       data-callback="onSubmit"
       data-action="submit"
-      type="submit"
     >
       Send
     </button>
   </form>
 </div>
+
+<form action="http://www.cabematthews.com">
+  <input type="email" name="email" required>
+  <textarea name="message" required></textarea>
+  <button type="submit">Send</button>
+</form>
 
 <!-- CAPTCHA - Use a callback function to handle the response token. -->
 <script>
