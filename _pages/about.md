@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I studied Physics at The University of Texas, and I earned an MDiv from The Seattle School of Theology and Psychology. Then I took a ThM from Perkins School of Theology at Southern Methodist University. I am the Pastor of Campus Discipleship at The Woodlands Methodist Church. I'm married to Stephanie and the proud father of two.
+I am interested in topics in philosophical theology like freedom and grace, providence, epistemology of theology, and divine agency and action. I love The Woodlands Methodist Church, where I am blessed to serve as a pastor on our discipleship team. Even more than that, I love being married to Stephanie and being the dad to our two kids.
