@@ -8,47 +8,32 @@
 #    - name: Languages
 #      value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: non-degree studies required for ordination
-      institution: Asbury Theological Seminary, Wilmore, Kentucky
-      year: 2019
-
-    - title: Master of Theology
-      institution: Perkins School of Theology, Southern Methodist University, Dallas, Texas
-      year: 2016
-      description:
-        - Thesis: "Perceptions of Grace: Faith and Virtue in the Theological Epistemology of John Henry Newman"
-        - Advisor: William J. Abraham  
-        - Reader: Bruce Marshall
-
-    #        - Description 2.
-    #        - title: Description 3.
-    #          contents:
-    #            - Sub-description 1.
-    #            - Sub-description 2.
-
-    - title: Master of Divinity
-      institution: The Seattle School of Theology and Psychology, Seattle, Washington
-      year: 2009
-    #      description:
-    #        - Description 1.
-    #        - Description 2.
-    - title: Bachelor of Science in Physics
-      institution: The University of Texas at Austin, Austin, Texas
-      year: 2005
-
-- title: Experience
+- title: Ministry Experience
   type: time_table
   contents:
     - title: Pastor of Campus Discipleship
       institution: The Woodlands Methodist Church, The Woodlands, Texas
       year: 2024-present
+      description:
+        - Overseeing at least a dozen Connect Classes (i.e. Sunday School) and at least as many seasonal, lay-led bible studies on our Woodlands campus
+        - Coordinating Advent Lunches, a large, seasonal event on Woodlands campus
+        - Overseeing men’s ministry, women’s ministry, and co-ed discipleship on our Montgomery and Woodforest campuses
+        -	Leading our Home Group ministry (i.e. Class Meetings) on our Woodforest and Montgomery campuses, including planning and executing seasonal launch events at both campuses, recruiting and training leaders, forming groups, etc.
+        -	Encouraging and supporting leaders for all the above ministries
+        - Organizing and teaching Start Here: Lead, our leadership core-values training, on our Woodforest campus
+        - Planning and teaching seasonal pastor led studies
+        - Assisting in worship as scheduled across three campuses and five different venues
+        - Preaching on Sunday morning as scheduled
 
     - title: Church Planter/Campus Pastor
       institution: Church at Montgomery, A Campus of The Woodlands Methodist Church, Montgomery, Texas
       year: 2023-2024
+      description:
+        - Preaching on Sunday mornings in weekly worship service
+        - Teaching, when necessary, in Sunday morning Connect Class (i.e. Sunday School)
+        - Managing ministries campuswide, e.g. supervising staff team, running staff meeting, drafting budget proposals, etc.
+        - Interfacing with central church services
+        - Planning evangelistic outreach initiatives 
 
     - title: Church Planter/Pastor
       institution: Christ the King Methodist Church, Montgomery, Texas
@@ -65,6 +50,37 @@
     - title: Pastoral Intern
       institution: Olympic View Community Church of the Brethren, Seattle, Washington
       year: 2008-2009
+
+- title: Education
+  type: time_table
+  contents:
+    - title: non-degree studies required for ordination
+      institution: Asbury Theological Seminary, Wilmore, Kentucky
+      year: 2019
+
+    - title: Master of Theology
+      institution: Perkins School of Theology, Southern Methodist University, Dallas, Texas
+      year: 2016
+      description:
+        - Thesis, "Perceptions of Grace: Faith and Virtue in the Theological Epistemology of John Henry Newman"
+        - Advisor, William J. Abraham  
+        - Reader, Bruce Marshall
+
+    #        - Description 2.
+    #        - title: Description 3.
+    #          contents:
+    #            - Sub-description 1.
+    #            - Sub-description 2.
+
+    - title: Master of Divinity
+      institution: The Seattle School of Theology and Psychology, Seattle, Washington
+      year: 2009
+    #      description:
+    #        - Description 1.
+    #        - Description 2.
+    - title: Bachelor of Science in Physics
+      institution: The University of Texas at Austin, Austin, Texas
+      year: 2005
 
 - title: Other Experience
   type: time_table
