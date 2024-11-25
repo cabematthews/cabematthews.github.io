@@ -18,8 +18,11 @@
     - title: Master of Theology
       institution: Perkins School of Theology, Southern Methodist University, Dallas, Texas
       year: 2016
-    #      description:
-    #        - Description 1.
+      description:
+        - Thesis: "Perceptions of Grace: Faith and Virtue in the Theological Epistemology of John Henry Newman"
+        - Advisor: William J. Abraham  
+        - Reader: Bruce Marshall
+
     #        - Description 2.
     #        - title: Description 3.
     #          contents:
