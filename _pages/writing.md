@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /writing/
-title: writing
+permalink: /publications/
+title: publications
 description:
 nav: true
 nav_order: 2
