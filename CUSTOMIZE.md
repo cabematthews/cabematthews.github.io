@@ -8,7 +8,7 @@ The project is structured as follows, focusing on the main components that you w
 
 ```txt
 .
-├── 📂 assets/: contains the assets that are displayed in the website
+├── 📂 assets/: contains the assets that are displayed in the website 
 │   └── 📂 json/
     │   └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
 ├── 📂 _bibliography/
