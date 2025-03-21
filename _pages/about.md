@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-As a pastor, I am blessed to serve on the discipleship team at The Woodlands Methodist Church in The Woodlands, Texas. I am also interested in topics in philosophical theology like freedom and grace, providence, epistemology of theology, and divine agency and action.
+I want to see churches and individuals taking the depths of the Christian faith more seriously and more faithfully. I believe the Methodist tradition has something to offer here to the broader church.
 
-In both of those areas, I want to see churches and individuals taking the depths of the Christian faith more seriously and more faithfully. I believe the Methodist tradition has something to offer here to the broader church.
+As a pastor, I am blessed to serve at Kingwood Methodist Church, a fantastic church community in northeast Houston, Texas. Among other responsibilities, I’m the regular preaching pastor in The Vine worship community.
 
 Most importantly, I love being married to Stephanie and being the dad to our two kids.
