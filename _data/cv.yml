@@ -8,6 +8,41 @@
 #    - name: Languages
 #      value: English, German
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor of Philosophy student in Philosophical Theology
+      institution: University of Aberdeen, Aberdeen, UK
+      year: Current
+
+    - title: non-degree studies required for ordination
+      institution: Asbury Theological Seminary, Wilmore, Kentucky
+      year: 2019
+
+    - title: Master of Theology in Systematic Theology
+      institution: Perkins School of Theology, Southern Methodist University, Dallas, Texas
+      year: 2016
+      description:
+#      - 'Thesis: "Perceptions of Grace: Faith and Virtue in the Theological Epistemology of John Henry Newman"'
+#       - "Advisor: William J. Abraham"
+#    - "Reader: Bruce Marshall"
+
+    #        - Description 2.
+    #        - title: Description 3.
+    #          contents:
+    #            - Sub-description 1.
+    #            - Sub-description 2.
+
+    - title: Master of Divinity
+      institution: The Seattle School of Theology and Psychology, Seattle, Washington
+      year: 2009
+    #      description:
+    #        - Description 1.
+    #        - Description 2.
+    - title: Bachelor of Science in Physics
+      institution: The University of Texas at Austin, Austin, Texas
+      year: 2005
+
 - title: Ministry Experience
   type: time_table
   contents:
@@ -69,41 +104,6 @@
     - title: Pastoral Intern
       institution: Olympic View Community Church of the Brethren, Seattle, Washington
       year: 2008-2009
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Philosophy student in Philosophical Theology
-      institution: University of Aberdeen, Aberdeen, UK
-      year: Current
-
-    - title: non-degree studies required for ordination
-      institution: Asbury Theological Seminary, Wilmore, Kentucky
-      year: 2019
-
-    - title: Master of Theology in Systematic Theology
-      institution: Perkins School of Theology, Southern Methodist University, Dallas, Texas
-      year: 2016
-      description:
-#      - 'Thesis: "Perceptions of Grace: Faith and Virtue in the Theological Epistemology of John Henry Newman"'
-#       - "Advisor: William J. Abraham"
-#    - "Reader: Bruce Marshall"
-
-    #        - Description 2.
-    #        - title: Description 3.
-    #          contents:
-    #            - Sub-description 1.
-    #            - Sub-description 2.
-
-    - title: Master of Divinity
-      institution: The Seattle School of Theology and Psychology, Seattle, Washington
-      year: 2009
-    #      description:
-    #        - Description 1.
-    #        - Description 2.
-    - title: Bachelor of Science in Physics
-      institution: The University of Texas at Austin, Austin, Texas
-      year: 2005
 
 - title: Other Experience
   type: time_table
