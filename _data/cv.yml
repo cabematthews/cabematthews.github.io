@@ -73,7 +73,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy student in Philosophical Theology
+    - title: Postgraduate research student in Philosophical Theology, pursuing a Doctor of Philosophy degree
       institution: University of Aberdeen, Aberdeen, UK
       year: Current
 
@@ -149,14 +149,14 @@
     - New Testament Greek
     - Basic knowledge of Biblical Hebrew, Latin, German, and Spanish
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: philosophy of religion/philosophical theology
-      items:
-        - Description 1.
-        - Description 2.
-    - title: systematic theology
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: philosophy of religion/ philosophical theology
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: systematic theology
 #      items:
 #        - Description 1.
 #        - Description 2.
