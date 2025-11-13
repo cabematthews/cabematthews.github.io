@@ -17,6 +17,6 @@ social: false # includes social icons at the bottom of the page
 
 I am blessed to serve as a pastor at Kingwood Methodist Church, a fantastic church community in northeast Houston, Texas. Among other responsibilities, I’m the regular preaching pastor in our Vine worship community.
 
-I am also a postgraduate research student in philosophical theology at the University of Aberdeen. My research focuses on articulating a Methodist account of what exactly God is up to in the experience of holiness.
+I am also a postgraduate research student in philosophical theology at the University of Aberdeen.
 
 Most importantly, I love being married to Stephanie and being the dad to our two kids.
