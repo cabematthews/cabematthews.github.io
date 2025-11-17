@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am blessed to serve as a pastor at Kingwood Methodist Church, a fantastic church community in northeast Houston, Texas. Among other responsibilities, I’m the regular preaching pastor in our Vine worship community.
+I serve as a pastor at Kingwood Methodist Church, a fantastic church community in northeast Houston, Texas. Among other responsibilities, I’m the regular preaching pastor in our Vine worship community.
 
 I am also a postgraduate research student in philosophical theology at the University of Aberdeen.
 
