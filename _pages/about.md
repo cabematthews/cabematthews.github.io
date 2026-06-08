@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I serve as a pastor at Kingwood Methodist Church, a fantastic church community in northeast Houston, Texas. Among other responsibilities, I’m the regular preaching pastor in our Vine worship community.
+I serve as a pastor at [Kingwood Methodist Church](https://kingwoodmethodist.org), a fantastic church community in northeast Houston, Texas. Among other responsibilities, I’m the regular preaching pastor in our Vine worship community.
 
-I am also a postgraduate research student in philosophical theology at the University of Aberdeen in Scotland.
+I am also a [postgraduate research student](https://www.abdn.ac.uk/people/g.matthews.25) in philosophical theology at the University of Aberdeen in Scotland.
 
 Most importantly, I love being married to Stephanie and being the dad to our two kids.
