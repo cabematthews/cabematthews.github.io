@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Preface to *Sermons on Several Occasions*
+title: Preface to Sermons on Several Occasions
 description: John Wesley
-img: 12.jpg
+img: 
 importance: 1
 category: work
 ---
