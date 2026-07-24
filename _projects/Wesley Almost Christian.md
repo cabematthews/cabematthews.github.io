@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sermon 2: “The Almost Christian”
+title: 'Sermon 2: “The Almost Christian”'
 description: John Wesley
 img:
 importance: 3
