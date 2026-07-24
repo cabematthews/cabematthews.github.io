@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: false
 nav_order: 3
-display_categories: [theology]
+display_categories: [theology, fun]
 horizontal: false
 ---
 
