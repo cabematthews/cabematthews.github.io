@@ -5,7 +5,7 @@ permalink: /projects/
 description: a collection of commentary 
 nav: false
 nav_order: 3
-display_categories: [theology, fun]
+display_categories: [theology]
 horizontal: false
 ---
 
