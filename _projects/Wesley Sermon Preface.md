@@ -4,7 +4,7 @@ title: Preface to *Sermons on Several Occasions*
 description: John Wesley
 img:
 importance: 3
-category: Theology
+category: theology
 ---
 
 # Preface to Sermons on Several Occasions
