@@ -4,7 +4,7 @@ title: 'Sermon 2: “The Almost Christian”'
 description: John Wesley
 img:
 importance: 3
-category: Theology
+category: theology
 ---
 
 # Sermon 2: “The Almost Christian”
