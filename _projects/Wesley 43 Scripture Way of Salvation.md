@@ -4,7 +4,7 @@ title: 'Sermon 43: “The Scripture Way of Salvation”'
 description: John Wesley
 img:
 importance: 3
-category: theology
+category: sermons
 ---
 
 Religion, Wesley argues, is complicated and difficult to understand. But “the genuine religion of Jesus Christ” is simple and easy to understand; anyone can understand what is required. Wesley sums it all up in two words: the goal is salvation; the means of realizing that goal is faith. The purpose of the present sermon is to unpack the meaning of these two words.
