@@ -3,7 +3,7 @@ layout: page
 title: Preface to Sermons on Several Occasions
 description: John Wesley
 img: 
-importance: 3
+importance: 1
 category: theology
 ---
 
