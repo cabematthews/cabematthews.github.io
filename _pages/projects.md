@@ -2,7 +2,7 @@
 layout: page
 title: notes
 permalink: /notes/
-description: a collection of Cabe's notes on different writings
+description: a collection of notes and comments
 nav: false
 nav_order: 3
 display_categories: [theology]
