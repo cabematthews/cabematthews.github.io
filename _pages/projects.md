@@ -6,7 +6,7 @@ description: a collection of Cabe's notes on different writings
 nav: false
 nav_order: 3
 display_categories: [theology]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/notes.md -->
