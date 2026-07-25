@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: a collection of commentary 
+description: a collection of Cabe's notes on different writings
 nav: false
 nav_order: 3
 display_categories: [theology]
