@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: notes
+permalink: /notes/
 description: a collection of Cabe's notes on different writings
 nav: false
 nav_order: 3
@@ -9,7 +9,7 @@ display_categories: [theology]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/notes.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
