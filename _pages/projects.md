@@ -6,7 +6,7 @@ description: a collection of notes and comments
 nav: false
 nav_order: 3
 display_categories: [theology]
-horizontal: true
+horizontal: true 
 ---
 
 <!-- pages/notes.md -->
