@@ -5,8 +5,8 @@ permalink: /wesley/
 description: a collection of notes and comments on the writings of John Wesley
 nav: false
 nav_order: 3
-display_categories: [theology]
-horizontal: false
+display_categories: [sermons]
+horizontal: true
 ---
 
 <!-- pages/notes.md -->
