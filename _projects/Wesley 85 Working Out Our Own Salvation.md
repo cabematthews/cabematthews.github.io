@@ -4,7 +4,7 @@ title: 'Sermon 85: “On Working Out Our Own Salvation”'
 description: John Wesley
 img:
 importance: 3
-category: theology
+category: sermons
 ---
 
 The great giant of twentieth century Wesley scholarship, Albert Outler, claims this sermon is one of the dozen sermons most crucial to a proper understanding Wesley’s theology, calling it, “the late Wesley’s most complete and careful exposition of the mystery of divine-human interaction, his subtlest probing of the paradox of prevenient grace and human agency.” 
