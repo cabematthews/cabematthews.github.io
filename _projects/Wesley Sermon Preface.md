@@ -8,17 +8,17 @@ category: theology
 ---
 
 John Wesley shared these sermons in a printed format to be clear and explicit about the doctrines he teaches. This probably had several purposes, including at least the following:
-•	Apologetic: Wesley wanted to defend his doctrine against various other viewpoints
-•	Polemical: Wesley wanted to publicize criticisms of competing viewpoints
-•	Formational: Wesley wanted people to encounter the transforming grace of Christ through these sermons
-•	Instructional: Wesley used these for training his lay preachers for Methodist ministry, most of whom had little advanced education of any kind, let alone formal theological education. Wesley’s published sermons were their seminary!
+*	Apologetic: Wesley wanted to defend his doctrine against various other viewpoints
+*	Polemical: Wesley wanted to publicize criticisms of competing viewpoints
+*	Formational: Wesley wanted people to encounter the transforming grace of Christ through these sermons
+*	Instructional: Wesley used these for training his lay preachers for Methodist ministry, most of whom had little advanced education of any kind, let alone formal theological education. Wesley’s published sermons were their seminary!
 
 Wesley lived in a contentious time and would have had to explain and defend his views and his actions to numerous opponents - most of whom he had a great deal in common with. His theological opponents would have included at different times:
-•	Establishment churches (especially Anglicans, but also Presbyterians and others) were resistant to Wesley’s unconventional methods and sometimes worried about him competing with their own ministries.
-•	Calvinists, whose position Wesley worried impugned the character of God and, more practically, encouraged antinomianism.
-•	Moravians, who sometimes promoted quietism.
-•	Catholics
-•	Latitudinarians and Socinians
+* Establishment churches (especially Anglicans, but also Presbyterians and others) were resistant to Wesley’s unconventional methods and sometimes worried about him competing with their own ministries.
+* Calvinists, whose position Wesley worried impugned the character of God and, more practically, encouraged antinomianism.
+* Moravians, who sometimes promoted quietism.
+* Catholics
+* Latitudinarians and Socinians
 
 ## Plain Truth for Plain People
 Wesley claims to write as he preaches, “to the bulk of mankind.” This seems to contradict, for instance, his occasional use of phrases in Latin and Greek, including here where he describes his aim as “ad populum.” On the one hand, it must have been hard to take his training and experience as an Oxford fellow and completely set it aside, as he himself readily acknowledges. It is perfectly understandable for someone of his education and background to occasionally forget his audience and their background.
@@ -35,9 +35,9 @@ In a poignant passage, Wesley compares his life to the journey of an arrow:
 This provides the focus for what follows - the importance of his single-minded quest for heaven. Wesley wants to live his brief life with an eye toward eternity. And he thinks he has found the key to that quest in the Scriptures. Indeed, Wesley thinks this is the purpose of the Scriptures!
 
 When it comes to the more opaque or confusing passages, Wesley has a few suggestions. For starters, he seems quite optimistic about his ability to understand the Bible in most cases. But when he doesn’t, he seems to have a three-step process:
-1.	Pray for illumination. Wesley thinks if he surrenders to God’s will, then God is more willing to make his will plain.
-2.	Scripture interprets scripture. Wesley here seems to be referring to an ancient idea that the more obscure passages of Scripture can be understood through recourse to the less obscure passages.
-3.	Consult those more experienced. If Wesley is still stumped, he suggests the next step should be to consult with a wise friend.
+1. Pray for illumination. Wesley thinks if he surrenders to God’s will, then God is more willing to make his will plain.
+2. Scripture interprets scripture. Wesley here seems to be referring to an ancient idea that the more obscure passages of Scripture can be understood through recourse to the less obscure passages.
+3. Consult those more experienced. If Wesley is still stumped, he suggests the next step should be to consult with a wise friend.
 
 ## My Mind is Open to Conviction
 
