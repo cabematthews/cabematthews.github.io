@@ -30,7 +30,7 @@ Nonetheless, his intention is to avoid excessive quotations of theological write
 ## The Naked Truths of the Gospel
 In a poignant passage, Wesley compares his life to the journey of an arrow:
 
-“I have thought, I am a creature of a day, passing through life as an arrow through the air. I am a spirit come from God and returning to God: Just hovering over the great gulf; till, a few moments hence, I am no more seen; I drop into an unchangeable eternity!” (par. 5)
+> “I have thought, I am a creature of a day, passing through life as an arrow through the air. I am a spirit come from God and returning to God: Just hovering over the great gulf; till, a few moments hence, I am no more seen; I drop into an unchangeable eternity!” (par. 5)
 
 This provides the focus for what follows - the importance of his single-minded quest for heaven. Wesley wants to live his brief life with an eye toward eternity. And he thinks he has found the key to that quest in the Scriptures. Indeed, Wesley thinks this is the purpose of the Scriptures!
 
@@ -45,10 +45,10 @@ Wesley closes his Preface by anticipating the charge that he has made some mista
 
 Second, Wesley suggests that if someone wants to change his mind, they should attempt to do so in a spirit of gentleness and humility. What follows is a beautiful vision for how to disagree in the church, which concludes in this way:
 
-“For God’s sake, if it be possible to avoid it, let us not provoke one another to wrath. Let us not kindle in each other this fire of hell; much less blow it up into a flame. If we could discern truth by that dreadful light, would it not be loss, rather than gain? For, how far is love, even with many wrong opinions, to be preferred before truth itself without love! We may die without the knowledge of many truths and yet be carried into Abraham’s bosom. But, if we die without love, what will knowledge avail? Just as much as it avails the devil and his angels!” (par. 10)
+> “For God’s sake, if it be possible to avoid it, let us not provoke one another to wrath. Let us not kindle in each other this fire of hell; much less blow it up into a flame. If we could discern truth by that dreadful light, would it not be loss, rather than gain? For, how far is love, even with many wrong opinions, to be preferred before truth itself without love! We may die without the knowledge of many truths and yet be carried into Abraham’s bosom. But, if we die without love, what will knowledge avail? Just as much as it avails the devil and his angels!” (par. 10)
 
 Wesley is not soft on truth here. He was trained in the philosophical logic of his day, and if anything, he approached his life and circumstances in too logical a manner! But he believed fully, not that truth was so weak, but that God’s love was so strong. In this, he can claim good company:
 
-“If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing.” (1Cor. 13:2 NIV)
+> “If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing.” (1Cor. 13:2 NIV)
 
-“You believe that there is one God. Good! Even the demons believe that—and shudder.” (James 2:19 NIV)
+> “You believe that there is one God. Good! Even the demons believe that—and shudder.” (James 2:19 NIV)
