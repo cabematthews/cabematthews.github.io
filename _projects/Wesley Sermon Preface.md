@@ -7,7 +7,6 @@ importance: 3
 category: theology
 ---
 
-# Preface to Sermons on Several Occasions
 John Wesley shared these sermons in a printed format to be clear and explicit about the doctrines he teaches. This probably had several purposes, including at least the following:
 •	Apologetic: Wesley wanted to defend his doctrine against various other viewpoints
 •	Polemical: Wesley wanted to publicize criticisms of competing viewpoints
