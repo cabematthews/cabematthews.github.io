@@ -4,7 +4,7 @@ title: Preface to Sermons on Several Occasions
 description: John Wesley
 img: 
 importance: 1
-category: theology
+category: sermons
 ---
 
 John Wesley shared these sermons in a printed format to be clear and explicit about the doctrines he teaches. This probably had several purposes, including at least the following:
