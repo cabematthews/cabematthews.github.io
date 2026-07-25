@@ -4,7 +4,7 @@ title: 'Sermon 2: “The Almost Christian”'
 description: John Wesley
 img:
 importance: 3
-category: theology
+category: sermons
 ---
 
 This is a University Sermon. Oxford fellows were on a regular rotation to preach before the university. Though they regularly traded or delegated this assignment, it was still considered a part of their duties as fellows of the university. The congregation would have included numerous students and other fellows and persons connected with the university.
