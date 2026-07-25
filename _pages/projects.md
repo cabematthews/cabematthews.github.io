@@ -6,7 +6,7 @@ description: a collection of notes and comments on the writings of John Wesley
 nav: false
 nav_order: 3
 display_categories: [sermons]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/notes.md -->
