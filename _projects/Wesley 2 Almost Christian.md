@@ -34,4 +34,4 @@ Wesley closes with a bold challenge: which column do you fall under? Are you eve
 
 A real Christian loves God and neighbor and has faith in God. Do you?
 
-“May we all thus experience what it is to be, not almost only; but altogether Christians; being justified freely by his grace, through the redemption that is in Jesus; knowing we have peace with God through Jesus Christ; rejoicing in hope of the glory of God; and having the love of God shed abroad in our hearts, by the Holy Ghost given unto us!” (II.11)
+> “May we all thus experience what it is to be, not almost only; but altogether Christians; being justified freely by his grace, through the redemption that is in Jesus; knowing we have peace with God through Jesus Christ; rejoicing in hope of the glory of God; and having the love of God shed abroad in our hearts, by the Holy Ghost given unto us!” (II.11)
