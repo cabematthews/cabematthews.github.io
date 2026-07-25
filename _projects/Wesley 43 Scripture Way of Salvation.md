@@ -7,7 +7,6 @@ importance: 3
 category: theology
 ---
 
-# Sermon 43: “The Scripture Way of Salvation”
 Religion, Wesley argues, is complicated and difficult to understand. But “the genuine religion of Jesus Christ” is simple and easy to understand; anyone can understand what is required. Wesley sums it all up in two words: the goal is salvation; the means of realizing that goal is faith. The purpose of the present sermon is to unpack the meaning of these two words.
 ## Salvation is a present thing
 Salvation is, for starters, more than a merely future reality. Wesley doesn’t want to exclude “the going to heaven” here, but he points out the basic, naive understanding of the preaching text for the present sermon. His excerpt from Ephesians 2:8, “Ye are saved through faith,” includes a stative, passive participle form of the verb for “save” that can, as Wesley points out, be read to suggest a present state: you have been saved. Wesley thinks of salvation as embracing the entire journey of grace from the initial overtures to its full consummation.
@@ -33,6 +32,9 @@ The faith by which we are sanctified is the “evidence and conviction” – or
 1.	God promised to make us holy in the Scriptures.
 2.	God can do what he promises.
 3.	God can do it now.
+
 The only thing left is acquiring the faith – again, think perception – that he has done it, that God has perfected us in love. For Wesley, this is something that can sometimes seem to happen gradually, but it is best understood as an instantaneous process. (Elsewhere Wesley argues that logically there must be a moment where the last bit of sin is removed from the human heart.)
+
 He closes with the invitation:
-“Look for it then every day, every hour, every moment! Why not this hour, this moment? Certainly you may look for it now, if you believe it is by faith. … If you seek it by faith, you may expect it as you are; and expect it now.” (III.18)
+
+> “Look for it then every day, every hour, every moment! Why not this hour, this moment? Certainly you may look for it now, if you believe it is by faith. … If you seek it by faith, you may expect it as you are; and expect it now.” (III.18)
